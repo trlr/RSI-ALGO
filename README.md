@@ -1,0 +1,1 @@
+RSI Statergy Code for automation of trades, ihave used Yahoo finance, Technical analsys(ta), pandas and matplot lib libraries for this project. Our basic RSI statergy is When the RSI value is less than 30 we buy and when RSI is greater than 70 we sell. 
